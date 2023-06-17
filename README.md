@@ -4,7 +4,7 @@ Low Power and optimise Legion 7
 
 
 
-##Programms for optimise:
+Programms for optimise:
 
 Better Fan Controll
 https://www.legionfancontrol.com/#h.3s7m1tp4qikx
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=UTX-KpQqD-4
 
 
 
-##Programms that I like:
+Programms that I like:
 Windows Powertoys
 https://github.com/microsoft/PowerToys/releases
 
