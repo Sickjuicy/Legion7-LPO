@@ -44,6 +44,12 @@ https://tabby.sh/
 Termius
 https://termius.com/
 
+KeePass
+https://keepass.info/download.html
+Plugin: 
+KeeAnywhere
+https://keeanywhere.de/
+
 
 
 
