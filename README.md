@@ -50,4 +50,24 @@ https://termius.com/
 
 Config:
 
+legionfancontrol
+quiet
+0
+400
+800
+1200
+2100
 
+balance
+0
+800
+1200
+2000
+2600
+
+performance
+0
+900
+1600
+2100
+3100
